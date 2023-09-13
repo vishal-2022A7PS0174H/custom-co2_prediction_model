@@ -1,0 +1,29 @@
+this text file explains my Machine Learning PROJECT-
+
+*********_______ TO PREDICT CO2 EMISSIONS BY BUILDING A LINEAR REGRESSION MODEL FROM SCRATCH
+________***
+
+Problem Description:
+
+We have been tasked with developing a linear regression model from scratch, without using any pre-built machine learning libraries.( Allowed numpy , pandas & matplotlib).
+
+ The goal is to create a simple yet effective model that can predict a continuous target variable based on one or more input features. Linear regression is a fundamental technique in machine learning and statistics.
+
+Dataset: Assuming that we will be provided with a dataset consisting of various details regarding the features of a vehicle along with fuel consumption attributes. The task is to predict the CO2 emission of the vehicle using the given data
+
+
+We will be provided with a dataset containing both input features and target values. 
+
+Constraints:
+
+● You must implement the linear regression model without using pre-built machine learning libraries like scikit-learn or TensorFlow.
+● The dataset provided should have a sufficient number of data points and features to train and evaluate the model effectively.
+● You can use gradient descent or a variant of it for optimization.
+● Ensure that your code is well-documented and easy to understand.
+● You are encouraged to experiment with different hyper parameters and settings to
+optimise your model's performance. Accuracy :
+
+To check how well our model performed in predicting the testing values. Please use R-Squared or RMSE metric for Accuracy.
+
+Also, once we have built our own linear regression model, import the linear regression model from sklearn library and compare our model’s performance based on the metric of accuracy.
+
